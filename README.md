@@ -1,3 +1,3 @@
-# queue-implementation-c++
+# queue-implementation
 
-Implementation of a Queue, utilizing a Linked List.
+Implementation of a Queue, utilizing a Linked List and C++.
